@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DOCENTESCRUD
+build_property.RootNamespace = DOCENTESCRUD
+build_property.ProjectDir = C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\DOCENTESCRUD\DOCENTESCRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Documents\CESDE\Desarrollo de Software\2do Semestre\Lenguaje de Programación\DOCENTESCRUD\DOCENTESCRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Docentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Docentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Docentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Docentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Docentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Grupos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Grupos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Grupos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Grupos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Grupos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3J1cG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Modulos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Modulos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Modulos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Modulos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Modulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Documents/CESDE/Desarrollo de Software/2do Semestre/Lenguaje de Programación/DOCENTESCRUD/DOCENTESCRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mhkva93jdh
